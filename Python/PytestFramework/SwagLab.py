@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import re
 import time
 
-#Locator
+#LocatorElement
 USER_NAME = "user-name"
 PASSWORD = "password"
 LOGIN_BUTTON = "login-button"
